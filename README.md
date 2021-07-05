@@ -8,7 +8,8 @@
 | 2.1.16.0  | Minecraft Win10  |
 | 2.1.19.0  | Death Stranding  |
 | 2.1.29.0  | 3D mark dlss test v2  |
-| 2.1.39.0  | Cyberpunk 2077 & Ghostrunner  |
+| 2.1.39.0  | Cyberpunk 2077 & Ghostrunner  | 
+| 2.1.52.0  | fortnite |
 | 2.1.55.0  | Crysis Remastered & Metro Exodus Enhanced |
 | 2.1.63.0  | No Man's Sky  |
 | 2.1.66.0  | Doom Eternal  |
