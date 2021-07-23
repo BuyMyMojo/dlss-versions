@@ -4,7 +4,7 @@
 | dlss version  | source  |
 | :------------: | :------------: |
 | 1.0.9.0  | 3D mark dlss test  |
-| 1.0.11.0  | Metro Exodus  |
+| 1.0.11.0  | Metro Exodus & Final Fantasy 15 |
 | 2.1.16.0  | Minecraft Win10  |
 | 2.1.19.0  | Death Stranding  |
 | 2.1.29.0  | 3D mark dlss test v2  |
