@@ -11,6 +11,7 @@
 | 2.1.39.0  | Cyberpunk 2077 & Ghostrunner  | 
 | 2.1.52.0  | fortnite |
 | 2.1.55.0  | Crysis Remastered & Metro Exodus Enhanced |
+| 2.1.58.0  | Call of Duty MW |
 | 2.1.63.0  | No Man's Sky  |
 | 2.1.66.0  | Doom Eternal  |
 | 2.2.6.0  | Rainbow Six Siege  |
