@@ -16,6 +16,7 @@
 | 2.1.66.0  | Doom Eternal  |
 | 2.2.6.0  | Rainbow Six Siege  |
 | 2.2.9.0  | UE4/5 Plugin  |
+| 2.2.18.0  | UE4/5 Plugin  |
 
 [2.1.29.0 vs 2.2.9.0 1](https://imgsli.com/NTk2NjE)
 [2.1.29.0 vs 2.2.9.0 2](https://imgsli.com/NTk2NjI)
