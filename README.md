@@ -18,6 +18,7 @@
 | 2.2.9.0  | UE4/5 Plugin  |
 | 2.2.16.0  | [Cyberpunk 2077 mod](https://www.nexusmods.com/cyberpunk2077/mods/3037) |
 | 2.2.18.0  | UE4/5 Plugin  |
+| 2.3.1.0  | UE4/5 Plugin  |
 
 [2.1.29.0 vs 2.2.9.0 1](https://imgsli.com/NTk2NjE)
 [2.1.29.0 vs 2.2.9.0 2](https://imgsli.com/NTk2NjI)
