@@ -3,22 +3,25 @@
 
 | dlss version  | source  |
 | :------------: | :------------: |
-| 1.0.9.0  | 3D mark dlss test  |
+| 1.0.9.0  | 3D mark dlss test |
 | 1.0.11.0  | Metro Exodus & Final Fantasy 15 |
-| 2.1.16.0  | Minecraft Win10  |
-| 2.1.19.0  | Death Stranding  |
-| 2.1.29.0  | 3D mark dlss test v2  |
-| 2.1.39.0  | Cyberpunk 2077 & Ghostrunner  | 
+| 2.1.16.0  | Minecraft Win10 |
+| 2.1.19.0  | Death Stranding |
+| 2.1.29.0  | 3D mark dlss test v2 |
+| 2.1.39.0  | Cyberpunk 2077 & Ghostrunner |
 | 2.1.52.0  | fortnite |
 | 2.1.55.0  | Crysis Remastered & Metro Exodus Enhanced |
 | 2.1.58.0  | Call of Duty MW |
-| 2.1.63.0  | No Man's Sky  |
-| 2.1.66.0  | Doom Eternal  |
-| 2.2.6.0  | Rainbow Six Siege  |
-| 2.2.9.0  | UE4/5 Plugin  |
+| 2.1.63.0  | No Man's Sky |
+| 2.1.66.0  | Doom Eternal |
+| 2.2.6.0  | Rainbow Six Siege |
+| 2.2.9.0  | UE4/5 Plugin |
 | 2.2.16.0  | [Cyberpunk 2077 mod](https://www.nexusmods.com/cyberpunk2077/mods/3037) |
-| 2.2.18.0  | UE4/5 Plugin  |
-| 2.3.1.0  | UE4/5 Plugin  |
+| 2.2.18.0  | UE4/5 Plugin |
+| 2.3.1.0  | UE4/5 Plugin |
+| 2.3.2.0  | Sword and Fairy 7, Rise of the Tomb Raider |
+| 2.3.3.0  | Swords of Legends Online |
+| 2.3.4.0  | Jurassic World Evolution 2 |
 
 [2.1.29.0 vs 2.2.9.0 1](https://imgsli.com/NTk2NjE)
 [2.1.29.0 vs 2.2.9.0 2](https://imgsli.com/NTk2NjI)
