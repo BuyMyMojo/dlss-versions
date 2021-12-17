@@ -23,6 +23,7 @@
 | 2.3.2.0  | Sword and Fairy 7, Rise of the Tomb Raider |
 | 2.3.3.0  | Swords of Legends Online |
 | 2.3.4.0  | Jurassic World Evolution 2 |
+| 2.3.5.0  | Source: Horizon Zero Dawn |
 
 [2.1.29.0 vs 2.2.9.0 1](https://imgsli.com/NTk2NjE)
 [2.1.29.0 vs 2.2.9.0 2](https://imgsli.com/NTk2NjI)
