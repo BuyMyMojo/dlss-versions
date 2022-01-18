@@ -16,7 +16,7 @@
 | 2.1.66.0  | Doom Eternal |
 | 2.2.6.0  | Rainbow Six Siege |
 | 2.2.9.0  | UE4/5 Plugin |
-| 2.2.11.0  | Back 4 Blood |
+| 2.2.11.0  | Back 4 Blood & Unity 2022.1.0b3|
 | 2.2.16.0  | [Cyberpunk 2077 mod](https://web.archive.org/web/20210821020030/https://www.nexusmods.com/cyberpunk2077/mods/3037) |
 | 2.2.18.0  | UE4/5 Plugin |
 | 2.3.1.0  | UE4/5 Plugin |
