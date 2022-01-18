@@ -28,6 +28,8 @@
 [2.1.29.0 vs 2.2.9.0 1](https://imgsli.com/NTk2NjE)
 [2.1.29.0 vs 2.2.9.0 2](https://imgsli.com/NTk2NjI)
 
+Massive shout out to [techpowerup's dlss collection](https://www.techpowerup.com/download/nvidia-dlss-dll)! I have gotten a chunk of dlss coppies from them and they have taken frm this repo too. I'm glad to work along side with them 
+
 My sacrifice for the cause:
 
 ![Sacrifice](https://user-images.githubusercontent.com/46948241/124277786-ca3d9200-db88-11eb-9335-6699f5414afa.gif)
